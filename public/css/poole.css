@@ -41,6 +41,12 @@
           box-sizing: border-box;
 }
 
+.post-tags {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: .5rem;
+}
+
 html,
 body {
   margin: 0;
