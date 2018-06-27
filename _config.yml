@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -21,9 +21,5 @@ github:
   repo:           https://github.com/d3sk/d3sk.github.io
 
 tags:
-
-github_username:  qian256
-facebook_username: joe.qian
-linkedin_username: long-qian
 
 
