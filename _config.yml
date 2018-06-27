@@ -8,11 +8,11 @@ permalink:        pretty
 # Setup
 title:            Rohan Davenport
 tagline:          'Rohan Davenport'
-<<<<<<< HEAD
+
 description:      'Google's design teams are crazy.<br>My school blog of tech and life.'
-=======
+
 description:      'Googles design team must be on crack.<br>My school blog of tech and life.'
->>>>>>> ef109d6948116a3dd4a8a778f2a3a403830da70b
+
 url:              http://d3sk.me/
 
 author:
@@ -20,18 +20,9 @@ author:
   url:            http://d3sk.me/
 
 paginate:         2
-<<<<<<< HEAD
-=======
-
 
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
->>>>>>> ef109d6948116a3dd4a8a778f2a3a403830da70b
 
 github:
   repo:           https://github.com/d3sk/d3sk.github.io
-
-<<<<<<< HEAD
-
-=======
->>>>>>> ef109d6948116a3dd4a8a778f2a3a403830da70b
 
